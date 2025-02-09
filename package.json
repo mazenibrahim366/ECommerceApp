@@ -2,7 +2,7 @@
   "name": "e-commerce-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mazenibrahim366.github.io/ECommerceApp.git",
+  "homepage": "https://mazenibrahim366.github.io/ECommerceApp",
   "type": "module",
   "scripts": {
     "dev": "vite",
